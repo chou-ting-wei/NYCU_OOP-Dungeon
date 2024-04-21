@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/Dungeon.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Dungeon.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Dungeon.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/Dungeon.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/GameCharacter.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/GameCharacter.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/GameCharacter.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/GameCharacter.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/Item.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Item.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Item.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/Item.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/Monster.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Monster.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Monster.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/Monster.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/NPC.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/NPC.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/NPC.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/NPC.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/Object.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Object.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Object.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/Object.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/Player.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Player.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Player.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/Record.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Record.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Record.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/Record.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/Room.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Room.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/Room.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/Room.cpp.o"
+},
+{
+  "directory": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/build",
+  "command": "/usr/bin/clang++ -D_LINUX -I/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/include -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/dungeon.dir/src/main.cpp.o -c /Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/main.cpp",
+  "file": "/Users/chou.ting.wei/Coding/NYCU/OOP/dungeon/src/main.cpp",
+  "output": "CMakeFiles/dungeon.dir/src/main.cpp.o"
+}
+]

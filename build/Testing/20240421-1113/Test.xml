@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20240421-1113-Experimental"
+	Name="userwei-MBP.local"
+	Generator="ctest-3.29.0"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="15.0.0.15000309"
+	OSName="macOS"
+	Hostname="userwei-MBP.local"
+	OSRelease="14.4.1"
+	OSVersion="23E224"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="8192"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2300"
+	>
+	<Testing>
+		<StartDateTime>Apr 22 00:31 CST</StartDateTime>
+		<StartTestTime>1713717112</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 22 00:31 CST</EndDateTime>
+		<EndTestTime>1713717112</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
